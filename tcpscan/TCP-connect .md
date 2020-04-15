@@ -58,20 +58,20 @@ TCP connect()扫描原理是：扫描主机通过TCP/IP协议的三次握手与�
 ##对百度和手机进行了扫描实验结果如下
 ###1.www.baidu.com
      
-    [+] 80 open
+        [+] 80 open
 	[+] 443 open
 	[*] The scan is complete!
 	[*] A total of 2 open port 
 	运行了 0.9594316482543945s
 
 
-<img src="E:\test\tcpscan\www.baidu.com.png"/>
+
 
 
 
 
 ###2.对安卓手机的端口扫描结果
-     [*] The scan is complete!
+         [*] The scan is complete!
 	 [*] A total of 0 open port 
 	 运行了 0.9384949207305908s
 
